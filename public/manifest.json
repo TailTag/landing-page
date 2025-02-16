@@ -1,0 +1,26 @@
+{
+    "name": "TailTag",
+    "short_name": "TailTag",
+    "start_url": "https://tailtag.link/",
+    "display": "standalone",
+    "description": "🏷️ TailTag – Mark your digital territory! 🌐✨ A sleek, shareable profile for all your links—no coding, just vibes. 🐾🚀",
+    "lang": "english",
+    "dir": "auto",
+    "theme_color": "#101827",
+    "background_color": "#101827",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://mewo.gay/icon-512-maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://mewo.gay/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}

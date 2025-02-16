@@ -1,2 +1,4 @@
-# landing-page
-Temporary landing page 🚀
+# 🚀 TailTag landing page
+
+
+Nothing special here, just a temporary landing page for TailTag!
